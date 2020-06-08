@@ -1,0 +1,5 @@
+alias l='ls -1Xalh --group-directories-first'
+alias a='vi ~/.bash_aliases'
+alias cb='cat ~/.bash_history'
+alias r='. ~/.bashrc'
+alias ggrep="grep --color=always -a --group-separator=$'\n\n\n ================================================================================= \n\n\n'"
